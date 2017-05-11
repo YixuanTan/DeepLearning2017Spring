@@ -3,7 +3,7 @@
 """
 Created on Sun Apr  2 21:13:14 2017
 
-@author: nizhang
+@author: yixuantan
 """
 #from __future__ import print_function
 import matplotlib.image as mpimg
